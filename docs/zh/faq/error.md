@@ -213,6 +213,7 @@ star: true
 
 -----
 
+<Badge text="Q" type="warning" vertical="middle" />：** Failed to check if dir exists: failed get parent list: failed get dir: failed get parent list: failed get dir: failed get parent list: failed to list objs: connection lost**
 
 暂时就这些，如果还有可以留言，或者按照格式添加（为了统一直观）
 
